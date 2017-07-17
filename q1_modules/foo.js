@@ -1,1 +1,2 @@
-export const fooString = 'FOO';
+const fooString='FOO';
+export default fooString;
